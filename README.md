@@ -55,7 +55,7 @@
 <div align='center'>
 
  <img src='https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi'>
- <img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black'>
+
 <!--  <img src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white'> -->
 </div>
 <hr>
