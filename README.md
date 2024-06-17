@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=glory%20+git&fontSize=70&animation=fadeIn&fontAlignY=38" />
 </h1>
 <h3 align="center">  
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJoonHoSeong&count_bg=%23D2F3FF&title_bg=%235EEAFF&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false"/></a><br>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoungkwangjoo&count_bg=%23D2F3FF&title_bg=%235EEAFF&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false"/></a><br>
   Hi I'm a developer in Korea 
 </h3>
 <br>
