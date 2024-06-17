@@ -152,7 +152,6 @@
 </table>
 <br><br>
 
-<img src="./icons/FastAPI.svg" width="48">
 
 
 <hr>
