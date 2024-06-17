@@ -182,7 +182,7 @@
  <a herf="https://solved.ac/profile/dudrknd1642/", target="_blank">
    <h2 align="center">👨‍💻 progremers score 👨‍💻</h2>
 
-[![](https://github.com/youngkwangjoo/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/youngkwangjoo/github-programmers-rank)  
+[![](https://github.com/youngkwangjoo/github-programmers-rank/blob/main/lib/result.svg)](https://github.com/youngkwangjoo/github-programmers-rank)  
 <!-- 	<img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=dudrknd1642> -->
 </a>
 
