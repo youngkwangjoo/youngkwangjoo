@@ -174,6 +174,7 @@
 </div>
 <hr>
 <h2 align="center">⚡ Stats ⚡</h2>
+
 <br>
 <div align='center'>
  <img src='https://github-readme-stats.vercel.app/api?username=youngkwangjoo&show_icons=true'>
@@ -208,12 +209,14 @@
   <a href="https://github.com/youngkwangjoo?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 <hr>
-<h2 align="center">👨‍💻 progremers score 👨‍💻</h2>
 
-[![](https://github.com/youngkwangjoo/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/youngkwangjoo/github-programmers-rank) 
 
 <p align="center">
 <a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/{youngkwangjoo}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
 </p>
 
 ![snake gif](https://github.com/youngkwangjoo/youngkwangjoo/blob/output/github-contribution-grid-snake.svg)
+
+<h2 align="center">👨‍💻 progremers score 👨‍💻</h2>
+
+[![](https://github.com/youngkwangjoo/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/youngkwangjoo/github-programmers-rank)  
