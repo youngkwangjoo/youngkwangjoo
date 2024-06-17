@@ -74,7 +74,7 @@
  <img src='https://github-readme-stats.vercel.app/api?username=youngkwangjoo&show_icons=true'>
  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=youngkwangjoo&layout=compact'>
  <a herf="https://solved.ac/profile/dudrknd1642/", target="_blank">
-	<img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=dudrknd1642>
+<!-- 	<img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=dudrknd1642> -->
 </a
 
 </div>
@@ -103,6 +103,7 @@
   <a href="https://github.com/youngkwangjoo?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 <hr>
+<h2 align="center">👨‍💻 progremers score 👨‍💻</h2>
 
 [![](https://github.com/youngkwangjoo/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/youngkwangjoo/github-programmers-rank) 
 
