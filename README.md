@@ -196,9 +196,6 @@
   <a href='https://github.com/youngkwangjoo/codingTest'>
   <image src='https://github-readme-stats.vercel.app/api/pin/?username=youngkwangjoo&repo=codingtest'>
   </a>
-  <a href='https://github.com/youngkwangjoo/Dev-Book-Club'>
-  <image src='https://github-readme-stats.vercel.app/api/pin/?username=youngkwangjoo&repo=Dev-Book-Club'>
-  </a>	
   <a href='https://github.com/youngkwangjoo/computer_science'>
   <image src='https://github-readme-stats.vercel.app/api/pin/?username=youngkwangjoo&repo=computer_science'>
   </a>	
