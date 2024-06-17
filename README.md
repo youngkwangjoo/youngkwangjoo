@@ -175,16 +175,15 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <br>
-<div align='center'>
- <img src='https://github-readme-stats.vercel.app/api?username=youngkwangjoo&show_icons=true'>
- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=youngkwangjoo&layout=compact'>
- <a herf="https://solved.ac/profile/dudrknd1642/", target="_blank">
-   <h2 align="center">👨‍💻 progremers score 👨‍💻</h2>
 
-[![](https://github.com/youngkwangjoo/github-programmers-rank/blob/main/lib/result.svg)](https://github.com/youngkwangjoo/github-programmers-rank)  
-<!-- 	<img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=dudrknd1642> -->
-</a>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=youngkwangjoo&show_icons=true" alt="GitHub Stats">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngkwangjoo&layout=compact" alt="Top Languages">
+</p>
 
+<p align="center">
+  <a href="https://solved.ac/profile/dudrknd1642/" target="_blank"></a>
+</p>
 </div>
 <hr>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
