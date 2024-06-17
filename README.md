@@ -22,7 +22,7 @@
   Thanks
   <br>
     <br>
-  📫 How to reach me: <img src="./icons/Gmail-Dark.svg" width="48">,  <a href="mailto: dudrknd1642@naver.com">dudrknd1642@naver.com</a>
+  📫 How to reach me: <a href="mailto: dudrknd1642@gmail.com">dudrknd1642@gmail.com</a>
 </p>
 
 <hr>
