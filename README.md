@@ -68,7 +68,8 @@
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
       <br>C#
     </td> -->
-
+<td align="center" width="96">
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /></div>Docker
 
 
 
@@ -158,7 +159,7 @@
 <br>
 <div align='center'>
 
-[![My Skills](https://skillicons.dev/icons?i=docker,fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev)
 
 <!--  <img src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white'> -->
 </div>
