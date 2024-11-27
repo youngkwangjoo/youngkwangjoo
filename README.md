@@ -15,7 +15,9 @@
   Thanks
   <br>
     <br>
-  📫 How to reach me: <a href="mailto: dudrknd1642@gmail.com">dudrknd1642@gmail.com</a>
+   How to reach me: <a href="mailto: dudrknd1642@gmail.com">dudrknd1642@gmail.com</a>
+  <br>
+   velog : <a href = https://velog.io/@glory_joo/posts> glory_joo/velog
 </p>
 
 <h2 align="center">🔥 Programming skills 🔥</h2>
